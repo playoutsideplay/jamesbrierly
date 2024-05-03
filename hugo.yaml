@@ -24,20 +24,16 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - name: Contact
       pageRef: /contact
       weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
     - name: LinkedIn
-      weight: 5
+      weight: 4
       url: "https://linkedin.com/jamesbrierly"
       params:
         icon: linkedin
     - name: Email
-      weight: 6
+      weight: 5
       url: "mailto:hello@jamesbrierly.com"
       params:
         icon: mail
