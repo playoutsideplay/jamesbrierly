@@ -65,7 +65,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Multi-Language Made Easy"
-    subtitle="Create multi-language pages by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
+    subtitle="Create multi-language pageis by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
   >}}
   {{< hextra/feature-card
     title="And Much More..."
