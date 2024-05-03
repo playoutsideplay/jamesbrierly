@@ -10,13 +10,13 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
+  James Brierly&nbsp;<br class="sm:hx-block hx-hidden" />Cyber Security Professional
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
+  testing text here&nbsp;<br class="sm:hx-block hx-hidden" />james is really cool
 {{< /hextra/hero-subtitle >}}
 </div>
 
