@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: James Brierly
 layout: hextra-home
 ---
 
