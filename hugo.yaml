@@ -27,16 +27,16 @@ menu:
     - name: Contact
       pageRef: /contact
       weight: 3
-    - name: LinkedIn
-      weight: 4
-      url: "https://linkedin.com/jamesbrierly"
-      params:
-        icon: linkedin
     - name: Email
-      weight: 5
+      weight: 4
       url: "mailto:hello@jamesbrierly.com"
       params:
         icon: mail
+    - name: LinkedIn
+      weight: 5
+      url: "https://linkedin.com/jamesbrierly"
+      params:
+        icon: linkedin
 
 params:
   navbar:
